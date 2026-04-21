@@ -26,6 +26,8 @@ A small collection of projects, apps, and photography work I’ve built over the
 
 **What it does:** Lets users design and apply watermarks to one or more images, with batch export, resize, and rename workflows. The product emphasizes fast browser-based processing, auto scaling, and support for high-resolution images.
 
+**Demo:** Featured in a friendly YouTube walkthrough by Joseph Todd: [Watch the demo](https://www.youtube.com/watch?v=Zu_nDVMKE54)
+
 <p align="center">
   <img src="./images/resized/watermarks1.png" alt="Watermarks.io screenshot 1" width="32%" />
   <img src="./images/resized/watermarks2.png" alt="Watermarks.io screenshot 2" width="32%" />
